@@ -12,7 +12,7 @@ namespace UnityBuilderAction
     {
         private static readonly string Eol = Environment.NewLine;
         private static string APP_NAME = "Toilet Paint - Monster Color";
-        private static string COMPANY_NAME = "1690607547215623092937";
+        private static string COMPANY_NAME = "1690774259990804872567";
         private static string BUILD_VERSION_NAME = "1.0.0";
         private static string PACKAGENAME = "com.skibidi.toilet.monster.painting";
         private static string PATH_KEYSTORE = "data.keystore";
